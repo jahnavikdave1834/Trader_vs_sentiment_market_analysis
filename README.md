@@ -7,8 +7,8 @@ To understand how market sentiment (Fear, Greed, Neutral) affects trader behavio
 
 ## Dataset
 Two datasets were used:
-- Hyperliquid historical trading data
-- Bitcoin Fear & Greed Index
+- Hyperliquid historical trading data (Note: The historical trading dataset is large and is loaded directly from the provided Google Drive link inside the notebook instead of being stored in this repository.)
+- Bitcoin Fear & Greed Index(dataset is included in the repo)
 
 ## Methodology
 1. Load and clean both datasets.
@@ -27,3 +27,5 @@ Two datasets were used:
 - Pandas
 - Matplotlib
 - Google Colab
+ ENJOY THIS AND LET ME KNOW YOU HAVE UNCOVERED IN THIS!!
+Thank You!!!!!
